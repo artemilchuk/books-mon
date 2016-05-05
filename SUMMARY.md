@@ -1,5 +1,5 @@
 # Summary
 
 * [Зміст](README.md)
-* [Вступне слово](vstupne_slovo.md)
+* [Вступне слово](1/poyasnyuvalna_zapyska.md)
 
