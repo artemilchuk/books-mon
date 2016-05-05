@@ -1,5 +1,5 @@
 # Summary
 
 * [Зміст](README.md)
-* Вступне слово
+* [Вступне слово](vstupne_slovo.md)
 
