@@ -6,7 +6,6 @@
         "mathjax",
         "gtm",
         "ga",
-        "disqus",
         "-search"
     ],
     "pluginsConfig": {
